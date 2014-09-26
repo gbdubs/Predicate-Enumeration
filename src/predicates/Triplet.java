@@ -10,6 +10,7 @@ public class Triplet {
 	private List<Integer> expectations;
 	
 	public Triplet(List<Integer> vars, List<Integer> expt){
+		///COMENNNETTTT
 		this.variables = vars;
 		this.expectations = expt;
 	}
@@ -24,6 +25,7 @@ public class Triplet {
 	}
 	
 	public String toString(){
+	//COMMETNTT PBTISHHCHH
 		String result = "";
 		for (int i = 0; i < 3; i++){
 			result += " v ";
